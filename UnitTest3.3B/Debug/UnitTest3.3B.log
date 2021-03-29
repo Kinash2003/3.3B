@@ -1,0 +1,3 @@
+﻿  UnitTest3.3B.cpp
+D:\Lab-3\3.3B\3.3B\Triad.cpp(49,24): warning C4101: third: неиспользованная локальная переменная
+  UnitTest3.3B.vcxproj -> D:\Lab-3\3.3B\Debug\UnitTest3.3B.dll
